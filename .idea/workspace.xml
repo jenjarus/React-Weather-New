@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc1a8fc8-9803-4aaf-a316-91ddd5dfe52a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.2ae9a79c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.2ae9a79c.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.2ae9a79c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/weather/WeatherBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/weather/WeatherBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,7 +106,7 @@
       <workItem from="1651999969106" duration="3214000" />
       <workItem from="1652101548928" duration="27568000" />
       <workItem from="1652171244071" duration="10105000" />
-      <workItem from="1652186660494" duration="4154000" />
+      <workItem from="1652186660494" duration="5655000" />
     </task>
     <servers />
   </component>
