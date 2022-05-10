@@ -4,7 +4,7 @@ import WeatherInfoItem from './weatherInfo/WeatherInfoItem';
 import WeatherInfoLoading from './weatherInfo/WeatherInfoLoading';
 import WeatherInfoError from './weatherInfo/WeatherInfoError';
 
-const API_KEY = '2681028be31eaf3adaf3252f62835095';
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 const WeatherBox = () => {
     const cityName = useSelector((store) => store.weather.cityName);
