@@ -1,0 +1,21 @@
+header {
+  background: $background_color;
+  padding: 20px 0;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.16);
+
+  .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .header-title {
+      font-size: 24px;
+      font-weight: bold;
+      text-transform: uppercase;
+
+      .header-title__highlight {
+        color: $red_color;
+      }
+    }
+  }
+}

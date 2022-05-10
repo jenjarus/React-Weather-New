@@ -1,0 +1,33 @@
+.search-form {
+  display: flex;
+  align-items: center;
+
+  .search-form__input {
+    flex-grow: 1;
+    width: 100%;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 1px solid #808080;
+    border-radius: 5px;
+    outline: none;
+
+    &:focus {
+      border-color: $red_color;
+    }
+  }
+
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: $red_color;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.2s;
+
+    &:hover {
+      background: $red_color_hover;
+    }
+  }
+}
